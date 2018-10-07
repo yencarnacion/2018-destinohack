@@ -1,0 +1,23 @@
+---
+"@context": http://schema.org
+"@type": "Event"
+"location": 
+  "@type": "Place"
+  "address":
+      "@type": "PostalAddress"
+      "addressLocality": "San Juan"
+      "addressRegion": "PR"
+      "postalCode": "00917"
+      "streetAddress": "Ave. Ponce De León Pda. 22 1/2"
+  "name": "Centro de Bellas Artes Luis A. Ferr&eacute;"
+"name": 'BALLET CONCIERTO GOES PINK'
+"image": 
+  "url": https://www.cba.pr.gov/wp-content/uploads/2017/10/ballet1-300.jpg
+  "alt": alt text for Ballet
+"offers": 
+  "@type": "Offer"
+  "priceCurrency": "USD"
+  "url": "https://www.cba.pr.gov/eventos-detalles/goes-pink-ballet-concierto-de-pr/"
+"startDate": 2018-10-19T20:00:00.0 -4
+category: ballet
+description: Text for Describing ballet Event goes here

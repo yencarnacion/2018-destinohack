@@ -1,0 +1,23 @@
+---
+"@context": http://schema.org
+"@type": "Event"
+"location": 
+  "@type": "Place"
+  "address":
+      "@type": "PostalAddress"
+      "addressLocality": "San Juan"
+      "addressRegion": "PR"
+      "postalCode": "00917"
+      "streetAddress": "Ave. Ponce De León Pda. 22 1/2"
+  "name": "Centro de Bellas Artes Luis A. Ferr&eacute;"
+"name": 'MAMMA MIA'
+"image": 
+  "url": https://www.cba.pr.gov/wp-content/uploads/2017/10/mammamia300.jpg
+  "alt": alt text for mamma mia event
+"offers": 
+  "@type": "Offer"
+  "priceCurrency": "USD"
+  "url": "https://www.cba.pr.gov/eventos-detalles/mamma-mia/"
+"startDate": 2018-10-27T20:00:00.0 -4
+category: musical
+description: Text for Describing mamma mia Event goes here

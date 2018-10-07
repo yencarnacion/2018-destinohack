@@ -1,0 +1,3 @@
+flaskapi.sock
+*.pyc
+env/

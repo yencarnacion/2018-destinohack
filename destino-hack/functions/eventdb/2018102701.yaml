@@ -1,0 +1,23 @@
+---
+"@context": http://schema.org
+"@type": "Event"
+"location": 
+  "@type": "Place"
+  "address":
+      "@type": "PostalAddress"
+      "addressLocality": "San Juan"
+      "addressRegion": "PR"
+      "postalCode": "00917"
+      "streetAddress": "Ave. Ponce De León Pda. 22 1/2"
+  "name": "Centro de Bellas Artes Luis A. Ferr&eacute;"
+"name": 'LAS SABROSAS'
+"image": 
+  "url": https://www.cba.pr.gov/wp-content/uploads/2018/09/sabrosas300.jpg
+  "alt": alt text for las sabrosas
+"offers": 
+  "@type": "Offer"
+  "priceCurrency": "USD"
+  "url": "https://www.cba.pr.gov/eventos-detalles/las-sabrosas/"
+"startDate": 2018-10-27:30:00.0 -4
+category: comedy
+description: Text for Describing las sabrosas Event goes here

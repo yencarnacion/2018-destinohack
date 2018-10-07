@@ -1,0 +1,23 @@
+---
+"@context": http://schema.org
+"@type": "Event"
+"location": 
+  "@type": "Place"
+  "address":
+      "@type": "PostalAddress"
+      "addressLocality": "San Juan"
+      "addressRegion": "PR"
+      "postalCode": "00917"
+      "streetAddress": "Ave. Ponce De León Pda. 22 1/2"
+  "name": "Centro de Bellas Artes Luis A. Ferr&eacute;"
+"name": "SAGA"
+"image": 
+  "url": http://www.cba.pr.gov/wp-content/uploads/2017/10/instagram-saga.jpg
+  "alt": alt text for SAGA
+"offers": 
+  "@type": "Offer"
+  "priceCurrency": "USD"
+  "url": "https://www.cba.pr.gov/eventos-detalles/saga/"
+"startDate": 2018-10-12T18:30:00.0 -4
+category: music
+description: Text for Describing SAGA Event goes here

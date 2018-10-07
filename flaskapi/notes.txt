@@ -1,0 +1,2 @@
+yencarnacion@flask-01:~$ /usr/bin/jq '[ .[] | select(.category=="ballet")]' /home/yencarnacion/eventdb/db.json
+

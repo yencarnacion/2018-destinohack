@@ -1,0 +1,23 @@
+---
+"@context": http://schema.org
+"@type": "Event"
+"location": 
+  "@type": "Place"
+  "address":
+      "@type": "PostalAddress"
+      "addressLocality": "San Juan"
+      "addressRegion": "PR"
+      "postalCode": "00917"
+      "streetAddress": "Ave. Ponce De León Pda. 22 1/2"
+  "name": "Centro de Bellas Artes Luis A. Ferr&eacute;"
+"name": 'LA FUERZA DEL JAZZ'
+"image": 
+  "url": https://www.cba.pr.gov/wp-content/uploads/2018/03/cba200x300.jpg
+  "alt": alt text for jazz event
+"offers": 
+  "@type": "Offer"
+  "priceCurrency": "USD"
+  "url": "https://www.cba.pr.gov/eventos-detalles/especial-2-la-fuerza-del-jazz/"
+"startDate": 2018-10-20T19:00:00.0 -4
+category: music
+description: Text for Describing jazz Event goes here
